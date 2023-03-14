@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi, I'm Austin!
 
-<!--
-**austinjcheng/austinjcheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate full-stack web developer with three years of experience in building beautiful and functional websites and web applications. With my in-depth knowledge of the latest web development technologies and my ability to quickly learn new tools and frameworks, I am confident that I can help bring your web project to life. My technical expertise includes:
 
-Here are some ideas to get you started:
+### Languages
+Java, Python, TypeScript, C#/.NET, PHP, SQL(MySQL, PostgreSQL)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frameworks and Libraries
+React, Angular, Node.js, Spring
+
+### Platforms and Tools
+Kubernetes/Docker, AWS, Azure, Git, Linux
+
+### Patterns and Methodologies
+Agile, scrum, CI/CD, microservices, TDD
+
+When I'm not coding, I enjoy staying up to date with the latest industry trends and participating with the tech community by contributing to open-source projects. If you're interested in learning more about my work or discussing a potential project, feel free to [email me](mailto:austinjcheng@gmail.com) or check out a demo of my [e-commerce webapp](austinjcheng.netlify.app), built with several microservices written in 5 unique languages. 
