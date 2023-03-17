@@ -16,10 +16,10 @@ Agile, scrum, CI/CD, microservices, TDD
 
 ## Project: Custom Resume Generator
 This project is a ChatGPT-powered Next.js app that generates job-tailored resumes to showcase my matching skills.
-[TRY DEMO HERE](austin-resume.netlify.app)
+[TRY DEMO HERE](https://austin-resume.netlify.app)
 
 ## Project: E-commerce Web App
 Used TypeScript and Next.js to create an ecommerce website that combined multiple microservices, integrating RESTful APIs from Stripe, MySQL, ASP.NET, Python, and Django. 
-[TRY DEMO HERE](austinjcheng.netlify.app)
+[TRY DEMO HERE](https://austinjcheng.netlify.app)
 
 When I'm not coding, I enjoy staying up to date with the latest industry trends and participating with the tech community by contributing to open-source projects. If you're interested in learning more about my work or discussing a potential project, feel free to [email me](mailto:austinjcheng@gmail.com).
