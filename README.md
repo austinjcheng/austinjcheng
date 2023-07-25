@@ -1,25 +1,22 @@
-# Hi, I'm Austin!
+# I'm Austin, a Full-Stack iOS Developer
 
-I'm a passionate full-stack web developer with three years of experience in building beautiful and functional websites and web applications. With my in-depth knowledge of the latest web development technologies and my ability to quickly learn new tools and frameworks, I am confident that I can help bring your web project to life. My technical expertise includes:
+I'm a passionate developer with over three years of experience in building beautiful and functional applications and backends. With my in-depth knowledge of the latest web development technologies and my ability to quickly learn new tools and frameworks, I am confident that I can help bring your project to life.
 
-### Languages
-Java, Python, TypeScript, C#/.NET, PHP, SQL(MySQL, PostgreSQL)
+## Projects
 
-### Frameworks and Libraries
-React, Angular, Node.js, Spring
+# PicTheOutfit: An iOS AI-Powered Fashion App
+Developed a full-stack application that selectively modifies images of outfits using Swift and the DALL·E API.
+Implemented user authentication using Sign in with Apple and store user information using a Python backend.
+Integrated the Apple StoreKit framework to make in-app purchases and subscriptions.
+Complied with Apple development guidelines and GDPR privacy requirements.
 
-### Platforms and Tools
-Kubernetes/Docker, AWS, Azure, Git, Linux
+# PicTheOutfit Python Backend
+Implemented user creation using Flask endpoints authenticated with Google Firebase credentials.
+Stored user data and subscription information using Google Firestore.
+Verifies the JWT receipt data from the Apple App Store Connect API to confirm purchases.
+Deployed on a Google Cloud Run serverless Docker container using a GitHub CI/CD pipeline.
+Securely store and retrieve sensitive credentials using Google Secret Manager.
 
-### Patterns and Methodologies
-Agile, scrum, CI/CD, microservices, TDD
 
-## Project: Custom Resume Generator
-This project is a ChatGPT-powered Next.js app that generates job-tailored resumes to showcase my matching skills.
-[TRY DEMO HERE](https://austin-resume.netlify.app)
 
-## Project: E-commerce Web App
-Used TypeScript and Next.js to create an ecommerce website that combined multiple microservices, integrating RESTful APIs from Stripe, MySQL, ASP.NET, Python, and Django. 
-[TRY DEMO HERE](https://austinjcheng.netlify.app)
 
-When I'm not coding, I enjoy staying up to date with the latest industry trends and participating with the tech community by contributing to open-source projects. If you're interested in learning more about my work or discussing a potential project, feel free to [email me](mailto:austinjcheng@gmail.com).
